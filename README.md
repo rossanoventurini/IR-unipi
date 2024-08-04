@@ -11,7 +11,8 @@
 
 ## Goals and opportunities
 
-### Syllabus
+
+## Syllabus
 
 - Introduction and basic definitions: algorithm, problem, instance.
 
@@ -19,8 +20,10 @@
 
 - Sorting: Mergesort, Quicksort and Heapsort.
 
-### Exam
+## Exam
+The project of ...
 
+----
 ## Lectures
 
 | Date | Lecture | 
