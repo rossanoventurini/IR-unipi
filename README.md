@@ -9,10 +9,10 @@
 * Lectures schedule: Monday 11:00-13:00 (Aula Fib C) and Wednesday 11:00-13:00 (Aula Fib C1)
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
-## Goals and opportunities
+### Goals and opportunities
 
 
-## Syllabus
+### Syllabus
 
 - Introduction and basic definitions: algorithm, problem, instance.
 
@@ -20,11 +20,11 @@
 
 - Sorting: Mergesort, Quicksort and Heapsort.
 
-## Exam
+### Exam
 The project of ...
 
 ----
-## Lectures
+### Lectures
 
 | Date | Lecture | 
 | -------------: | :------------- |
