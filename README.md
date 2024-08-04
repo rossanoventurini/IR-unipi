@@ -25,4 +25,5 @@
 
 | Date | Lecture | 
 | -------------: | :------------- |
-10/09/2024 | Introduction.</br> A description of the course.<br>- *Techniques for Inverted Index Compression*, Giulio Ermanno Pibiri and Rossano Venturini, ACM Computing Surveys (CSUR), 2021 [link](https://pages.di.unipi.it/rossano/assets/pdf/papers/CSUR21.pdf)|
+| 10/09/2024 | Introduction.</br> A description of the course.<br>- *Techniques for Inverted Index Compression*, Giulio Ermanno Pibiri and Rossano Venturini, ACM Computing Surveys (CSUR), 2021 [link](https://pages.di.unipi.it/rossano/assets/pdf/papers/CSUR21.pdf)|
+| 12/09/2024 | Pippo e Pluto.</br> A brief description of .<br>- *Techniques for Inverted Index Compression*, Giulio Ermanno Pibiri and Rossano Venturini, ACM Computing Surveys (CSUR), 2021 [link](https://pages.di.unipi.it/rossano/assets/pdf/papers/CSUR21.pdf).</br>-	- Chapters 2 and 3 in *Efficient Query Processing for Scalable Web Search*, Nicola Tonellotto, Craig Macdonald, and Iadh Ounis,  Foundations and Trends in Information Retrieval, 2018 [link](https://www.dcs.gla.ac.uk/~craigm/publications/fnt-efficient-query-processing.pdf).|
