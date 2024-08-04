@@ -4,7 +4,7 @@
 * CFU: 6
 * Period: First semester
 * Language: English
-* Telegram group: [here](https://t.me/InformationRetrievalUnipi)
+* Telegram group: [here](https://t.me/+h-ZRKyPTw_M1YmQ0)
 * Classroom: [here](https://classroom.google.com/u/1/c/NjYxNTg1NzIyODc1)  (code: 7ucbcgh)
 * Lectures schedule: Monday 11:00-13:00 (Aula Fib C) and Wednesday 11:00-13:00 (Aula Fib C1)
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
