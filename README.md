@@ -1,6 +1,3 @@
-# IR-unipi
-Page of the course "Information Retrieval" at Department of Computer Science, University of Pisa
-
 # Information Retrieval
 
 * Teachers: [Franco Maria Nardini](http://hpc.isti.cnr.it/~nardini/) and [Rossano Venturini](http://pages.di.unipi.it/rossano)
