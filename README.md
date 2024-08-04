@@ -25,5 +25,4 @@
 
 | Date | Lecture | 
 | -------------: | :------------- |
-10/09/2024 | Introduction.</br> A description of the course.<br>
-- *Techniques for Inverted Index Compression*, Giulio Ermanno Pibiri and Rossano Venturini, ACM Computing Surveys (CSUR), 2021 [link](https://pages.di.unipi.it/rossano/assets/pdf/papers/CSUR21.pdf)|
+10/09/2024 | Introduction.</br> A description of the course.<br>- *Techniques for Inverted Index Compression*, Giulio Ermanno Pibiri and Rossano Venturini, ACM Computing Surveys (CSUR), 2021 [link](https://pages.di.unipi.it/rossano/assets/pdf/papers/CSUR21.pdf)|
