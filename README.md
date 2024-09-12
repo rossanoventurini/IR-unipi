@@ -24,7 +24,7 @@ This Information Retrieval (IR) course focuses on modern techniques and technolo
 
 
 ### Opportunities
-Becoming an expert in Information Retrieval offers numerous career opportunities with major companies that rely on search, ranking, and recommendation systems. This includes roles at search engine giants like Google and Microsoft, e-commerce platforms like Amazon and Alibaba, and media streaming services like Netflix and Spotify. Social media companies like Meta and LinkedIn also depend on IR expertise for content delivery and recommendations. Additionally, data analytics firms and AI/ML research labs are always seeking IR experts to develop cutting-edge retrieval systems and algorithms.
+Becoming an expert in Information Retrieval offers numerous career opportunities with major companies that rely on search, ranking, and recommendation systems. This includes roles at search engine giants like Google and Microsoft, e-commerce platforms like Amazon and Alibaba, and media streaming services like Netflix and Spotify. Social media companies like Meta and LinkedIn also depend on IR expertise for content delivery and recommendations. 
 
 ### Exam
 The exam consists of two parts.
