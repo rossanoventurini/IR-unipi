@@ -22,13 +22,7 @@ This Information Retrieval (IR) course focuses on modern techniques and technolo
 - **Neural Information Retrieval** – Use of deep learning and neural networks to model semantic relevance and improve search capabilities beyond traditional methods.
 - **Approximate k Nearest Neighbor (k-NN) Search** – Algorithms for quickly finding approximate nearest neighbors, useful for large-scale vector-based retrieval systems.
 
-### Syllabus
-
-- Introduction and basic definitions: algorithm, problem, instance.
-
-- Computational complexity analysis of algorithms.
-
-- Sorting: Mergesort, Quicksort and Heapsort.
+Becoming an expert in Information Retrieval offers numerous career opportunities with major companies that rely on search, ranking, and recommendation systems. This includes roles at search engine giants like Google and Microsoft, e-commerce platforms like Amazon and Alibaba, and media streaming services like Netflix and Spotify. Social media companies like Meta and LinkedIn also depend on IR expertise for content delivery and recommendations. Additionally, data analytics firms and AI/ML research labs are always seeking IR experts to develop cutting-edge retrieval systems and algorithms.
 
 ### Exam
 The exam consists of two parts.
