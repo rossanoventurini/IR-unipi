@@ -10,7 +10,17 @@
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
 ### Goals and opportunities
+This Information Retrieval (IR) course focuses on modern techniques and technologies that efficiently retrieve and rank relevant data. It covers both foundational concepts and cutting-edge advancements, providing students with a deep understanding of how to manage and retrieve information in various applications such as search engines, recommendation systems, and data management platforms. Here's a brief look at the course topics:
 
+- **Language Properties and IR Models** – Introduction to how language and text are represented for retrieval, including traditional models (Boolean, vector space, and probabilistic) and modern IR models.
+- **Effectiveness Measures** – Evaluation metrics like precision, recall, F1 score, mean reciprocal rank (MRR), and discounted cumulative gain (DCG) to measure IR system performance.
+- **Efficiency with Modern CPUs** – Techniques to optimize IR systems to utilize modern CPUs, focusing on query processing and data retrieval speed.
+- **Inverted Indexes and Query Processing** – Core indexing structures that allow fast lookups, including construction and optimization of inverted indexes for efficient query processing.
+- **Data Compression** – Strategies for compressing indexes and data to save storage space while maintaining retrieval performance.
+- **Learning-to-Rank (LTR)** – Machine learning models that rank documents based on relevance to queries. This involves feature extraction and model training to improve search results.
+- **Efficient Inference of Learning-to-Rank Models** – Techniques to ensure that LTR models can be applied efficiently in large-scale, real-time environments.
+- **Neural Information Retrieval** – Use of deep learning and neural networks to model semantic relevance and improve search capabilities beyond traditional methods.
+- **Approximate k Nearest Neighbor (k-NN) Search** – Algorithms for quickly finding approximate nearest neighbors, useful for large-scale vector-based retrieval systems.
 
 ### Syllabus
 
