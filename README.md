@@ -21,7 +21,19 @@
 - Sorting: Mergesort, Quicksort and Heapsort.
 
 ### Exam
-The project of ...
+The exam consists of two parts.
+
+- **Part 1**: Written Exam (up to 22 points)
+  - 1-hour written exam covering topics discussed during the course.
+  - Questions will assess the understanding of the core course materials.
+
+- **Part 2**: Oral Exam on a Project (up to 8 points)
+  - The project is based on a scientific paper from over 10 selected papers.
+  - Students can approach the project at different levels of depth:
+    - **Basic Level**: Read and understand the techniques presented in the article.
+    - **Intermediate Level**: Conduct experiments to verify the assumptions, main properties,  or conclusions.
+    - **Advanced Level**: Replicate the results from the article.
+    - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
 
 ----
 ### Lectures
