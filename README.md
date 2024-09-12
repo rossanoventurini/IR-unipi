@@ -9,7 +9,7 @@
 * Lectures schedule: Monday 11:00-13:00 (Aula Fib C) and Wednesday 11:00-13:00 (Aula Fib C1)
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
-### Goals and opportunities
+### Overview of Course
 This Information Retrieval (IR) course focuses on modern techniques and technologies that efficiently retrieve and rank relevant data. It covers both foundational concepts and cutting-edge advancements, providing students with a deep understanding of how to manage and retrieve information in various applications such as search engines, recommendation systems, and data management platforms. Here's a brief look at the course topics:
 
 - **Language Properties and IR Models** – Introduction to how language and text are represented for retrieval, including traditional models (Boolean, vector space, and probabilistic) and modern IR models.
@@ -22,6 +22,8 @@ This Information Retrieval (IR) course focuses on modern techniques and technolo
 - **Neural Information Retrieval** – Use of deep learning and neural networks to model semantic relevance and improve search capabilities beyond traditional methods.
 - **Approximate k Nearest Neighbor (k-NN) Search** – Algorithms for quickly finding approximate nearest neighbors, useful for large-scale vector-based retrieval systems.
 
+
+### Opportunities
 Becoming an expert in Information Retrieval offers numerous career opportunities with major companies that rely on search, ranking, and recommendation systems. This includes roles at search engine giants like Google and Microsoft, e-commerce platforms like Amazon and Alibaba, and media streaming services like Netflix and Spotify. Social media companies like Meta and LinkedIn also depend on IR expertise for content delivery and recommendations. Additionally, data analytics firms and AI/ML research labs are always seeking IR experts to develop cutting-edge retrieval systems and algorithms.
 
 ### Exam
