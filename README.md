@@ -35,11 +35,14 @@ The exam consists of two parts.
 
 - **Part 2**: Oral Exam on a Project (up to 8 points)
   - The project is based on a scientific paper from over 10 selected papers.
+  - The project can be completed by a team of up to 2 people.
+  - The project will be presented using approximately 10 slides during the oral exam.
   - Students can approach the project at different levels of depth:
     - **Basic Level**: Read and understand the techniques presented in the article.
     - **Intermediate Level**: Conduct experiments to verify the assumptions, main properties,  or conclusions.
     - **Advanced Level**: Replicate the results from the article.
     - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
+
 
 ----
 ### Lectures
