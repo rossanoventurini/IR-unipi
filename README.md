@@ -5,6 +5,7 @@
 * Period: First semester
 * Language: English
 * Telegram group: [here](https://t.me/+h-ZRKyPTw_M1YmQ0)
+* Teams group: [here](https://unipiit.sharepoint.com/:u:/r/sites/a__td_62942/SitePages/ClassHome.aspx?csf=1&web=1&share=EXQdcwM1E0pOl7BB2hZ2okkB3XSaeWIfdT6F4QrfaLqAKA&e=DDbwPa)
 * Lectures schedule: Monday 11:00-13:00 (Aula Fib C) and Wednesday 11:00-13:00 (Aula Fib C1)
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
@@ -26,7 +27,7 @@ This Information Retrieval (IR) course focuses on modern techniques and technolo
 Becoming an expert in Information Retrieval offers numerous career opportunities with major companies that rely on search, ranking, and recommendation systems. This includes roles at search engine giants like Google and Microsoft, e-commerce platforms like Amazon, eBay, and Alibaba, and media streaming services like Netflix and Spotify. Social media companies like Meta and LinkedIn also depend on IR expertise for content delivery and recommendations. 
 
 ### Exam
-The exam consists of two parts.
+The exam consists of two parts. 
 
 - **Part 1**: Written Exam (up to 22 points)
   - 1-hour written exam covering topics discussed during the course.
@@ -45,4 +46,5 @@ The exam consists of two parts.
 
 | Date | Lecture | 
 | -------------: | :------------- |
+| 16/09/2024 | Introduction of the course.|
 
