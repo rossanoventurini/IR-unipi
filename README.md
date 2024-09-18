@@ -43,6 +43,13 @@ The exam consists of two parts.
     - **Advanced Level**: Replicate the results from the article.
     - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
 
+#### Midterms
+
+| Date | 
+| :------------- | 
+| 28/10/2024 11:00 Room C |
+| 11/12/2024 11:00 Room C |
+
 
 ----
 ### Lectures
