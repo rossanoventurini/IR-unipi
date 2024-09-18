@@ -45,11 +45,10 @@ The exam consists of two parts.
 
 #### Midterms
 
-| Date | 
-| :------------- | 
-| 28/10/2024 11:00 Room C |
-| 11/12/2024 11:00 Room C |
-
+| Date | Hour | Room |
+| :------------- | ----: | ---- : |
+| 28/10/2024 | 11:00 | Room C |
+| 11/12/2024 | 11:00 | Room C |
 
 ----
 ### Lectures
