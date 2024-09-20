@@ -55,5 +55,9 @@ The exam consists of two parts.
 
 | Date | Lecture | 
 | -------------: | :------------- |
-| 16/09/2024 | Introduction of the course.|
+| 16/09/2024 | **Introduction of the course**. (FMN, RV)|
+| 18/09/2024 | **Evaluation in Information Retrieval**. (FMN). How do we evaluate an IR system? Methodology and Goal. Relevance Assessment and Annotation Methodology. A bit of history and current efforts. Text REtrieval Conference. Binary evaluation metrics: Precision, Recall, F-Measure. F-Score. Rank-based evaluation metrics: MAP, AP, MRR, MAP@K, AP@K. Beyond Binary Relevance: Graded relevance feedback. DCG, NDCG.
+<br>
+*Introduction to Information Retrieval* (Chapter 08), Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008. [link](http://nlp.stanford.edu/IR-book/pdf/08eval.pdf).
+</br>|
 
