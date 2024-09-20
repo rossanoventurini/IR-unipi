@@ -55,6 +55,6 @@ The exam consists of two parts.
 
 | Date | Lecture | 
 | -------------: | :------------- |
-| 16/09/2024 | **Introduction of the Course**. (FMN, RV)<br><br>Anatomy of a search engine. Main components and their interactions. General overview of the course. Final Exam. Question Time.<br><br>*References*:  *Introduction to Information Retrieval* (Chapter 08), Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008. [link](https://nlp.stanford.edu/IR-book/).|
+| 16/09/2024 | **Introduction of the Course**. (FMN, RV)<br><br>Anatomy of a search engine. Main components and their interactions. General overview of the course. Final Exam. Question Time.<br><br>*References*:  *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008. [link](https://nlp.stanford.edu/IR-book/).|
 | 18/09/2024 | **Evaluation in Information Retrieval**. (FMN)<br><br>How do we evaluate an IR system? Methodology and Goal. Relevance Assessment and Annotation Methodology. A bit of history and current efforts. Text REtrieval Conference. Binary evaluation metrics: Precision, Recall, F-Measure. F-Score. Rank-based evaluation metrics: MAP, AP, MRR, MAP@K, AP@K. Beyond Binary Relevance: Graded relevance feedback. DCG, NDCG.<br><br>*References*:  *Introduction to Information Retrieval* (Chapter 08), Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008. [link](http://nlp.stanford.edu/IR-book/pdf/08eval.pdf).|
 
