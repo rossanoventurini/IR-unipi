@@ -9,7 +9,7 @@ For any questions, please contact us.
 
 1. Paolo Boldi, Sebastiano Vigna. 2024. **The WebGraph framework I: Compression Techniques**. The WebConf. [paper](https://vigna.di.unimi.it/ftp/papers/WebGraphI.pdf). [code](https://github.com/vigna/webgraph-rs).
 
-2. Samy Chambi, Daniel Lemire, Owen Kaser, Robert Godin. 2016. **Better bitmap performance with Roaring bitmaps**. Software: Practice and Experience. [paper](http://arxiv.org/abs/1402.6407).
+2. Samy Chambi, Daniel Lemire, Owen Kaser, Robert Godin. 2016. **Better bitmap performance with Roaring bitmaps**. Software: Practice and Experience. [paper](http://arxiv.org/abs/1402.6407). [code](https://roaringbitmap.org/)
 
 3. Peter Boncz, Thomas Neumann, Viktor Leis. 2020. **FSST: Fast static symbol table compression**. Proceedings of the VLDB. [paper](https://www.vldb.org/pvldb/vol13/p2649-boncz.pdf) [code](https://github.com/cwida/fsst).
 
