@@ -7,7 +7,7 @@ For any questions, please contact us.
 
 ### Classic IR
 
-1. Paolo Boldi, Sebastiano Vigna. 2024. **The WebGraph framework I: Compression Techniques**. WWW. [paper](https://vigna.di.unimi.it/ftp/papers/WebGraphI.pdf).
+1. Paolo Boldi, Sebastiano Vigna. 2024. **The WebGraph framework I: Compression Techniques**. The WebConf. [paper](https://vigna.di.unimi.it/ftp/papers/WebGraphI.pdf). [code](https://github.com/vigna/webgraph-rs).
 
 2. Samy Chambi, Daniel Lemire, Owen Kaser, Robert Godin. 2016. **Better bitmap performance with Roaring bitmaps**. Software: Practice and Experience. [paper](http://arxiv.org/abs/1402.6407).
 
