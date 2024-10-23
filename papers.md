@@ -15,7 +15,7 @@ For any questions, please contact us.
 
 5. Gabriele Capannini, Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego, Nicola Tonellotto. 2016. Quality versus efficiency in document scoring with learning-to-rank models. Information Processing and Management. PDF uploaded on Teams.
 
-6. Domenico Dato, Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto. 2022. The Istella22 Dataset: Bridging Traditional and Neural Learning to Rank Evaluation. SIGIR. PDF uploaded on Teams. [code](https://github.com/hpclab/istella22-experiments).
+6. Domenico Dato, Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto. 2022. The Istella22 Dataset: Bridging Traditional and Neural Learning to Rank Evaluation. SIGIR. [paper](https://dl.acm.org/doi/10.1145/3477495.3531740). [code](https://github.com/hpclab/istella22-experiments).
 
 7. Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu. 2017. LightGBM: A Highly Efficient Gradient Boosting Decision Tree. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf). [code](https://github.com/microsoft/LightGBM).
 
