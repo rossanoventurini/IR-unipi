@@ -13,10 +13,10 @@ For any questions, please contact us.
 
 4. Omar Khattab, Mohammad Hammoud, Tamer Elsayed. 2020. Finding the best of both worlds: faster and more robust top-k document retrieval. SIGIR. [paper](https://web2.qatar.cmu.edu/~mhhammou/SIGIR_20_LazyBM.pdf).
 
-5. Gabriele Capannini, Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego, Nicola Tonellotto. 2016. Quality versus efficiency in document scoring with learning-to-rank models. Information Processing and Management. [paper]( https://www.sciencedirect.com/science/article/pii/S0306457316301248).
+5. Gabriele Capannini, Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego, Nicola Tonellotto. 2016. Quality versus efficiency in document scoring with learning-to-rank models. Information Processing and Management. PDF uploaded on Teams.
 
-6. Domenico Dato, Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto. 2022. The Istella22 Dataset: Bridging Traditional and Neural Learning to Rank Evaluation. SIGIR. paper uploaded on Teams, [code](https://github.com/hpclab/istella22-experiments).
+6. Domenico Dato, Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto. 2022. The Istella22 Dataset: Bridging Traditional and Neural Learning to Rank Evaluation. SIGIR. PDF uploaded on Teams. [code](https://github.com/hpclab/istella22-experiments).
 
-7. Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu. 2017. LightGBM: A Highly Efficient Gradient Boosting Decision Tree. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf), [code](https://github.com/microsoft/LightGBM).
+7. Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu. 2017. LightGBM: A Highly Efficient Gradient Boosting Decision Tree. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf). [code](https://github.com/microsoft/LightGBM).
 
-8. Tianqi Chen, Carlos Guestrin. 2016. XGBoost: A Scalable Tree Boosting System. KDD. [paper](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf), [code](https://github.com/dmlc/xgboost).
+8. Tianqi Chen, Carlos Guestrin. 2016. XGBoost: A Scalable Tree Boosting System. KDD. [paper](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf). [code](https://github.com/dmlc/xgboost).
