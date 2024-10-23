@@ -34,7 +34,7 @@ The exam consists of two parts.
   - Questions will assess the understanding of the core course materials.
 
 - **Part 2**: Oral Exam on a Project (up to 8 points)
-  - The project is based on a scientific paper from over 10 selected papers.
+  - The project is based on a scientific paper you choose from a [selected list of papers](https://github.com/rossanoventurini/IR-unipi/blob/main/papers.md).
   - The project can be completed by a team of up to 2 people.
   - The project will be presented using approximately 10 slides during the oral exam.
   - Students can approach the project at different levels of depth:
@@ -43,7 +43,8 @@ The exam consists of two parts.
     - **Advanced Level**: Replicate the results from the article.
     - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
 
-#### Midterm Exams 
+#### Midterm Exams
+Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links.
 
 | Date | Time | Room |
 | :------------- | --------: | :--------- |
