@@ -33,8 +33,12 @@ For any questions, please contact us.
 
 11. Jimmy Lin. 2024. **Operational Advice for Dense and Sparse Retrievers: HNSW, Flat, or Inverted Indexes?**. ArXiv. ([paper](https://arxiv.org/abs/2409.06464))
 
-12. Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma. 2022. **Optimizing Dense Retrieval Model Training with Hard Negatives**. ([paper]())
+12. Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma. 2022. **Optimizing Dense Retrieval Model Training with Hard Negatives**. [paper](https://jiafengguo.github.io/2021/2021-Optimizing%20Dense%20Retrieval%20Model%20Training%20with%20Hard%20Negatives.pdf). [code](https://github.com/jingtaozhan/DRhard).
 
 13. Sheng-Chieh Lin, Akari Asai, Minghan Li, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, and Xilun Chen. 2023. **How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval**. EMNLP. ([paper](https://aclanthology.org/2023.findings-emnlp.423.pdf))([code](https://github.com/facebookresearch/dpr-scale))
 
-14. Sean MacAvaney, Nicola Tonellotto. 2024. A Reproducibility Study of PLAID. SIGIR. ([paper](https://arxiv.org/abs/2404.14989))([code](https://github.com/seanmacavaney/plaidrepro))
+14. Sean MacAvaney, Nicola Tonellotto. 2024. **A Reproducibility Study of PLAID**. SIGIR. ([paper](https://arxiv.org/abs/2404.14989))([code](https://github.com/seanmacavaney/plaidrepro))
+
+15. Jeff Johnson, Matthijs Douze, Hervé Jégou. 2017. **Billion-scale similarity search with GPUs**. ArXiv. [paper](https://github.com/facebookresearch/faiss). [code](https://github.com/facebookresearch/faiss).
+
+16. Hervé Jégou, Matthijs Douze, Cordelia Schmid. 2011. **Product Quantization for Nearest Neighbor Search**. TPAMI. PDF uploaded on Teams.
