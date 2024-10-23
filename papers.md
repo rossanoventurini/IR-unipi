@@ -1,7 +1,7 @@
 # IR 2024-2025
 ## List of Papers
 
-This is the list of papers you can use to build Part #2 of the IR 2024-2025 final exam. Some of them are not available for free download. All PDFs are made available in the "Files" section of the Microsoft Teams channel of the course.
+This is the list of papers you can use to build Part #2 of the IR 2024-2025 final exam. Some of them are not available for free download. The ones that are not available for free download are made available to you in the "Files" section of the Microsoft Teams channel of the course.
 
 For any questions, please contact us.
 
