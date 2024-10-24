@@ -43,7 +43,7 @@ The exam consists of two parts.
     - **Advanced Level**: Replicate the results from the article.
     - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
 
-#### Midterm and Finalterm Exams
+#### Midterm and Final Exams
 Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links.
 
 | Date | Time | Room |
