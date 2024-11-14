@@ -49,7 +49,7 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 | Date | Time | Room | Notes |
 | :------------- | --------: | :--------- | :------- |
 | 28/10/2024 | 11:00 -- 13:00 | Room C | |
-| 11/12/2024 | 11:00 -- 13:00 | Room C | Take the final term only if your grade on the midterm is 18 or higher. |
+| 11/12/2024 | 11:00 -- 13:00 | Room C | Take the final term only if your grade on the midterm is 18 or higher |
 
 ----
 ### Lectures
