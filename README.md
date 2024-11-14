@@ -47,7 +47,7 @@ The exam consists of two parts.
 Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links.
 
 | Date | Time | Room |
-| :------------- | --------: | :--------- | : --- |
+| :------------- | --------: | :--------- | :------- |
 | 28/10/2024 | 11:00 -- 13:00 | Room C | |
 | 11/12/2024 | 11:00 -- 13:00 | Room C | Only if your grade on the midterm is 18 or higher.|
 
