@@ -44,7 +44,7 @@ The exam consists of two parts.
     - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
 
 #### Midterm and Final Exams
-Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links.
+Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links.  You can take the final term only if your grade on the midterm is 18 or higher. If you fail the midterm, no worries! You can still take any of the exams in January, February, June, July, or September 2025!
 
 | Date | Time | Room | Notes |
 | :------------- | --------: | :--------- | :------- |
