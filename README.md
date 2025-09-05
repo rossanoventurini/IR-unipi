@@ -51,8 +51,15 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 | 28/10/2024 | 11:00 -- 13:00 | Room C | |
 | 11/12/2024 | 11:00 -- 13:00 | Room C | Take the final term only if your grade on the midterm is 18 or higher |
 
-----
+
 ### Lectures
+
+| Date | Lecture | 
+| -------------: | :------------- |
+| 15/09/2025 | **Introduction of the Course**. (FMN, RV)<br><br>Anatomy of a search engine. Main components and their interactions. General overview of the course. Final Exam. Question Time.<br><br>*References*:  *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008 ([link](https://nlp.stanford.edu/IR-book/)).|
+
+----
+### Last Year Lectures
 
 | Date | Lecture | 
 | -------------: | :------------- |
