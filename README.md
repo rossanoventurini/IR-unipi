@@ -6,7 +6,7 @@
 * Language: English
 * Telegram group: [here](https://t.me/+h-ZRKyPTw_M1YmQ0)
 * Teams group: [here](https://unipiit.sharepoint.com/:u:/r/sites/a__td_62942/SitePages/ClassHome.aspx?csf=1&web=1&share=EXQdcwM1E0pOl7BB2hZ2okkB3XSaeWIfdT6F4QrfaLqAKA&e=DDbwPa)
-* Lectures schedule: Monday 11:00-13:00 (Aula Fib C) and Wednesday 11:00-13:00 (Aula Fib C1)
+* Lectures schedule: Monday 11:00-13:00 (Aula Fib C) and Tuesday 14:00-16:00 (Aula Fib C)
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
 ### Overview of Course
