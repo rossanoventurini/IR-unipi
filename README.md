@@ -5,7 +5,7 @@
 * Period: First semester
 * Language: English
 * Telegram group: [here](https://t.me/+h-ZRKyPTw_M1YmQ0)
-* Teams group: [here](https://unipiit.sharepoint.com/:u:/r/sites/a__td_62942/SitePages/ClassHome.aspx?csf=1&web=1&share=EXQdcwM1E0pOl7BB2hZ2okkB3XSaeWIfdT6F4QrfaLqAKA&e=DDbwPa)
+* Teams group: [here](https://teams.microsoft.com/l/team/19%3AS-A0WfCDeSVKVOjpazQkgS6FbVi-G0XqYfePkcpxZlE1%40thread.tacv2/conversations?groupId=f41702f2-9b87-4bca-9b99-a82a56fa44bf&tenantId=c7456b31-a220-47f5-be52-473828670aa1)
 * Lectures schedule: Monday 11:00-13:00 (Aula Fib C) and Tuesday 14:00-16:00 (Aula Fib C)
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
@@ -29,14 +29,14 @@ Becoming an expert in Information Retrieval offers numerous career opportunities
 ### Exam
 The exam consists of two parts. 
 
-- **Part 1**: Written Exam (up to 22 points)
-  - 1-hour written exam covering topics discussed during the course.
+- **Part 1**: Written Exam (up to 32 points)
+  - 1.25 hours written exam covering topics discussed during the course.
   - Questions will assess the understanding of the core course materials.
 
-- **Part 2**: Oral Exam on a Project (up to 8 points)
+- **Part 2**: Oral Exam on a Project
   - The project is based on a scientific paper you choose from a [selected list of papers](https://github.com/rossanoventurini/IR-unipi/blob/main/papers.md).
   - The project can be completed by a team of up to 2 people.
-  - The project will be presented using approximately 10 slides during the oral exam.
+  - The project will be presented using approximately 10 slides (15 min.) during the oral exam.
   - Students can approach the project at different levels of depth:
     - **Basic Level**: Read and understand the techniques presented in the article.
     - **Intermediate Level**: Conduct experiments to verify the assumptions, main properties,  or conclusions.
@@ -44,12 +44,10 @@ The exam consists of two parts.
     - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
 
 #### Midterm and Final Exams
-Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links.  You can take the final term only if your grade on the midterm is 18 or higher. If you fail the midterm, no worries! You can still take any of the exams in January, February, June, July, or September 2025!
+Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links. You can take the final term only if your grade on the midterm is 18 or higher. If you fail the midterm, no worries! You can still take any of the exams in January, February, June, July, or September!
 
 | Date | Time | Room | Notes |
 | :------------- | --------: | :--------- | :------- |
-| 28/10/2024 | 11:00 -- 13:00 | Room C | |
-| 11/12/2024 | 11:00 -- 13:00 | Room C | Take the final term only if your grade on the midterm is 18 or higher |
 
 
 ### Lectures
@@ -57,6 +55,7 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 | Date | Lecture | 
 | -------------: | :------------- |
 | 15/09/2025 | **Introduction of the Course**. (FMN, RV)<br><br>Anatomy of a search engine. Main components and their interactions. General overview of the course. Final Exam. Question Time.<br><br>*References*:  *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008 ([link](https://nlp.stanford.edu/IR-book/)).|
+| 16/09/2025 | **Evaluation in Information Retrieval**. (FMN)<br><br>How do we evaluate an IR system? Methodology and Goal. Relevance Assessment and Annotation Methodology. A bit of history and current efforts. Text REtrieval Conference. Binary evaluation metrics: Precision, Recall, F-Measure. F-Score. Rank-based evaluation metrics: MAP, AP, MRR, MAP@K, AP@K. Beyond Binary Relevance: Graded relevance feedback. DCG, NDCG.<br><br>*References*:  Chapter 8 in *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008 ([link](http://nlp.stanford.edu/IR-book/pdf/08eval.pdf)).|
 
 ----
 ### Last Year Lectures
