@@ -46,9 +46,9 @@ The exam consists of two parts.
 #### Midterm and Final Exams
 Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links. You can take the final term only if your grade on the midterm is 18 or higher. If you fail the midterm, no worries! You can still take any of the exams in January, February, June, July, or September!
 
-| Date | Time | Room | Notes |
+| | Date | Time | Room ||
 | :------------- | --------: | :--------- | :------- |
-| **Midterm #1**.| 28/10/2025 | 11:15 | C | |
+| |**Midterm #1**.| 28/10/2025 | 11:15 | C |
 
 
 ### Lectures
