@@ -46,3 +46,6 @@ For any questions, please contact us.
 9. Manos Chatzakis, Yannis Papakonstantinou, Themis Palpanas. 2025. **DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**. SIGMOD. [paper](https://arxiv.org/pdf/2505.19001)
 
 10. Cecilia Aguerrebere, Ishwar Singh Bhati, Mark Hildebrand, Mariano Tepper, Theodore Willke. 2023. **Similarity Search in a Blink of an Eye**. VLDB. [paper](https://arxiv.org/pdf/2304.04759).
+
+11. Liana Patel, Peter Kraft, Carlos Guestrin, Matei Zaharia. 2024. **ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data**. [paper](https://arxiv.org/pdf/2403.04871)
+
