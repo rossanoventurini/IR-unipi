@@ -47,5 +47,7 @@ For any questions, please contact us.
 
 10. Cecilia Aguerrebere, Ishwar Singh Bhati, Mark Hildebrand, Mariano Tepper, Theodore Willke. 2023. **Similarity Search in a Blink of an Eye**. VLDB. [paper](https://arxiv.org/pdf/2304.04759).
 
-11. Liana Patel, Peter Kraft, Carlos Guestrin, Matei Zaharia. 2024. **ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data**. [paper](https://arxiv.org/pdf/2403.04871)
+11. Liana Patel, Peter Kraft, Carlos Guestrin, Matei Zaharia. 2024. **ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data**. [paper](https://arxiv.org/pdf/2403.04871).
+
+12. Jiayang Shi, Yuzheng Cai, Weiguo Zheng. 2025. **Filtered Approximate Nearest Neighbor Search: A Unified Benchmark and Systematic Experimental Study**. [paper](https://arxiv.org/pdf/2509.07789).
 
