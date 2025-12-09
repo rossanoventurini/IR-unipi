@@ -39,11 +39,11 @@ For any questions, please contact us.
 
 6. Sean MacAvaney, Nicola Tonellotto. 2024. **A Reproducibility Study of PLAID**. SIGIR. [paper](https://arxiv.org/abs/2404.14989). [code](https://github.com/seanmacavaney/plaidrepro).
 
-7. Jeff Johnson, Matthijs Douze, Hervé Jégou. 2017. **Billion-scale similarity search with GPUs**. ArXiv. [paper](https://github.com/facebookresearch/faiss). [code](https://github.com/facebookresearch/faiss).
+7. Jeff Johnson, Matthijs Douze, Hervé Jégou. 2017. **Billion-scale similarity search with GPUs**. ArXiv. [paper](https://arxiv.org/pdf/1702.08734). [code](https://github.com/facebookresearch/faiss).
 
-8. Hervé Jégou, Matthijs Douze, Cordelia Schmid. 2011. **Product Quantization for Nearest Neighbor Search**. TPAMI. PDF uploaded on Teams. 
+8. Hervé Jégou, Matthijs Douze, Cordelia Schmid. 2011. **Product Quantization for Nearest Neighbor Search**. TPAMI. [paper](https://inria.hal.science/inria-00514462v2/document). 
 
-9. Manos Chatzakis, Yannis Papakonstantinou, Themis Palpanas. 2025. **DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**. SIGMOD. [paper](https://arxiv.org/pdf/2505.19001)
+9. Manos Chatzakis, Yannis Papakonstantinou, Themis Palpanas. 2025. **DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**. SIGMOD. [paper](https://arxiv.org/pdf/2505.19001).
 
 10. Cecilia Aguerrebere, Ishwar Singh Bhati, Mark Hildebrand, Mariano Tepper, Theodore Willke. 2023. **Similarity Search in a Blink of an Eye**. VLDB. [paper](https://arxiv.org/pdf/2304.04759).
 
