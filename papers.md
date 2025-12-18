@@ -51,3 +51,5 @@ For any questions, please contact us.
 
 12. Jiayang Shi, Yuzheng Cai, Weiguo Zheng. 2025. **Filtered Approximate Nearest Neighbor Search: A Unified Benchmark and Systematic Experimental Study**. [paper](https://arxiv.org/pdf/2509.07789).
 
+13. Omar Khattab, Matei Zaharia. 2020. **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**. [paper](https://arxiv.org/abs/2004.12832).
+
