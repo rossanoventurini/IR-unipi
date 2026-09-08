@@ -53,7 +53,13 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 
 
 ### Lectures
+| Date | Lecture | 
+| -------------: | :------------- |
+| 16/09/2026 | **Introduction of the Course**. (FMN, RV)<br><br>Anatomy of a search engine. Main components and their interactions. General overview of the course. Final Exam. Question Time.<br><br>*References*:  *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008 ([link](https://nlp.stanford.edu/IR-book/)).|
+| 21/09/2026 | **Evaluation in Information Retrieval**. (FMN)<br><br>How do we evaluate an IR system? Methodology and Goal. Relevance Assessment and Annotation Methodology. A bit of history and current efforts. Text REtrieval Conference. Binary evaluation metrics: Precision, Recall, F-Measure. F-Score. Rank-based evaluation metrics: MAP, AP, MRR, MAP@K, AP@K. Beyond Binary Relevance: Graded relevance feedback. DCG, NDCG.<br><br>*References*:  Chapter 8 in *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008 ([link](http://nlp.stanford.edu/IR-book/pdf/08eval.pdf)).|
+| 23/09/2026 | **Efficient Algorithms for Modern CPUs**. (RV)<br><br>Memory Hierarchy: L1, L2, L3 Caches, RAM and latencies. Temporal and spatial localities. Hardware prefetching. Parallel computing. CPU parallelisms: Pipelining, superscalar processing, and SIMD. Pipeline hazards: structural, data, and control hazards. Branch prediction. Examples.  <br><br>*References*: Sections 3.1, 3.2, 3.3, 3.4, and 3.6 in "CPU Microarchitecture: Performance Analysis and Tuning on Modern CPUs", Denis Bakhvalov, 2024 ([link](https://github.com/dendibakh/perf-book/releases/download/Q2.2024/Performance.Analysis.and.Tuning.on.Modern.CPUs.Q2.2024.pdf)) and/or Sections 3.1, 3.2, 9.1, 9.2, 9.3, 9.6, 10.1, and 10.6 in *Algorithms for Modern Hardware*, Sergey Slotin ([link](https://en.algorithmica.org/hpc/)).|
 
+### Last Year Lectures
 | Date | Lecture | 
 | -------------: | :------------- |
 | 15/09/2025 | **Introduction of the Course**. (FMN, RV)<br><br>Anatomy of a search engine. Main components and their interactions. General overview of the course. Final Exam. Question Time.<br><br>*References*:  *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008 ([link](https://nlp.stanford.edu/IR-book/)).|
@@ -85,7 +91,7 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 | 15/12/2025 | **Guest Speakers II**. (FMN, RV)<br><br>Guest Speakers from eBay and Weaviate.|
 
 ----
-### Last Year Lectures
+### Lectures 2024
 
 | Date | Lecture | 
 | -------------: | :------------- |
