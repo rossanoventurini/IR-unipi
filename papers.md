@@ -1,13 +1,11 @@
-# IR 2025-2026
+# IR 2026-2027
 ## List of Papers
 
-This is the list of papers you can use to build Part #2 of the IR final exam. Some of them are not available for free download. The ones that are not available for free download are made available to you in the "Files" section of the Microsoft Teams channel of the course.
-
-For any questions, please contact us.
+This is the list of papers you can use to build Part #2 of the IR final exam. For any questions, please contact us.
 
 ### Classic IR
 
-1. Paolo Boldi, Sebastiano Vigna. 2024. **The WebGraph framework I: Compression Techniques**. The WebConf. [paper](https://vigna.di.unimi.it/ftp/papers/WebGraphI.pdf). [code](https://github.com/vigna/webgraph-rs).
+1. Tommaso Fontana, Sebastiano Vigna, Stefano Zacchiroli. 2024. **WebGraph: The Next Generation (Is in Rust)**. The WebConf.  [paper](https://dl.acm.org/doi/10.1145/3589335.3651581). [code](https://github.com/vigna/webgraph-rs). [video](https://www.youtube.com/watch?v=zdR0JUjtChM).
 
 2. Samy Chambi, Daniel Lemire, Owen Kaser, Robert Godin. 2016. **Better bitmap performance with Roaring bitmaps**. Software: Practice and Experience. [paper](http://arxiv.org/abs/1402.6407). [code](https://roaringbitmap.org/).
 
@@ -23,33 +21,26 @@ For any questions, please contact us.
 
 3. Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu. 2017. **LightGBM: A Highly Efficient Gradient Boosting Decision Tree**. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf). [code](https://github.com/microsoft/LightGBM).
 
-4. Tianqi Chen, Carlos Guestrin. 2016. **XGBoost: A Scalable Tree Boosting System**. KDD. [paper](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf). [code](https://github.com/dmlc/xgboost).
-
 ### Neural IR
    
 1. Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini. 2024. **Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations**. SIGIR. [paper](https://arxiv.org/abs/2404.18812). [code](https://github.com/TusKANNy/seismic).
 
 2. Thibault Formal, Carlos Lassance, Benjamin Piwowarski, Stéphane Clinchant. 2022. **From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective**. SIGIR. [paper](https://arxiv.org/abs/2205.04733). [code](https://github.com/naver/splade).
 
-3. Jimmy Lin. 2024. **Operational Advice for Dense and Sparse Retrievers: HNSW, Flat, or Inverted Indexes?**. ArXiv. [paper](https://arxiv.org/abs/2409.06464).
+3. Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma. 2022. **Optimizing Dense Retrieval Model Training with Hard Negatives**. [paper](https://jiafengguo.github.io/2021/2021-Optimizing%20Dense%20Retrieval%20Model%20Training%20with%20Hard%20Negatives.pdf). [code](https://github.com/jingtaozhan/DRhard).
 
-4. Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma. 2022. **Optimizing Dense Retrieval Model Training with Hard Negatives**. [paper](https://jiafengguo.github.io/2021/2021-Optimizing%20Dense%20Retrieval%20Model%20Training%20with%20Hard%20Negatives.pdf). [code](https://github.com/jingtaozhan/DRhard).
+4. Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini. 2026. **Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing**. SIGIR. [paper](https://dl.acm.org/doi/10.1145/3805712.3809927). [code](https://github.com/tusKANNy/tachiom).
 
-5. Sheng-Chieh Lin, Akari Asai, Minghan Li, Barlas Oguz, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, and Xilun Chen. 2023. **How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval**. EMNLP. [paper](https://aclanthology.org/2023.findings-emnlp.423.pdf). [code](https://github.com/facebookresearch/dpr-scale).
+5. Patrick Iff, Paul Brügger, Marcin Chrapek, David Kochergin, Maciej Besta, Torsten Hoefler. 2026. **Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors**. SIGIR. [paper](https://dl.acm.org/doi/10.1145/3805712.3809731).
 
-6. Sean MacAvaney, Nicola Tonellotto. 2024. **A Reproducibility Study of PLAID**. SIGIR. [paper](https://arxiv.org/abs/2404.14989). [code](https://github.com/seanmacavaney/plaidrepro).
+6. Jeff Johnson, Matthijs Douze, Hervé Jégou. 2017. **Billion-scale similarity search with GPUs**. ArXiv. [paper](https://arxiv.org/pdf/1702.08734). [code](https://github.com/facebookresearch/faiss).
 
-7. Jeff Johnson, Matthijs Douze, Hervé Jégou. 2017. **Billion-scale similarity search with GPUs**. ArXiv. [paper](https://arxiv.org/pdf/1702.08734). [code](https://github.com/facebookresearch/faiss).
-
-8. Hervé Jégou, Matthijs Douze, Cordelia Schmid. 2011. **Product Quantization for Nearest Neighbor Search**. TPAMI. [paper](https://inria.hal.science/inria-00514462v2/document). 
-
-9. Manos Chatzakis, Yannis Papakonstantinou, Themis Palpanas. 2025. **DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**. SIGMOD. [paper](https://arxiv.org/pdf/2505.19001).
+7. Hervé Jégou, Matthijs Douze, Cordelia Schmid. 2011. **Product Quantization for Nearest Neighbor Search**. TPAMI. [paper](https://inria.hal.science/inria-00514462v2/document).
+   
+9. Jianyang Gao, Cheng Long. 2024. **RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search**. SIGMOD. [paper](https://arxiv.org/abs/2405.12497).
 
 10. Cecilia Aguerrebere, Ishwar Singh Bhati, Mark Hildebrand, Mariano Tepper, Theodore Willke. 2023. **Similarity Search in a Blink of an Eye**. VLDB. [paper](https://arxiv.org/pdf/2304.04759).
 
 11. Liana Patel, Peter Kraft, Carlos Guestrin, Matei Zaharia. 2024. **ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data**. [paper](https://arxiv.org/pdf/2403.04871).
 
-12. Jiayang Shi, Yuzheng Cai, Weiguo Zheng. 2025. **Filtered Approximate Nearest Neighbor Search: A Unified Benchmark and Systematic Experimental Study**. [paper](https://arxiv.org/pdf/2509.07789).
-
-13. Omar Khattab, Matei Zaharia. 2020. **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**. [paper](https://arxiv.org/abs/2004.12832).
-
+12. Jiayang Shi, Yuzheng Cai, Weiguo Zheng. 2025. **Filtered Approximate Nearest Neighbor Search: A Unified Benchmark and Systematic Experimental Study**. [paper](https://arxiv.org/1df/2509.07789).
