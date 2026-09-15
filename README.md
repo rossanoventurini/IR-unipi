@@ -51,7 +51,7 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 | **Finalterm**.| TBA | TBA | TBA |
 
 
-### Lectures (A.Y. 2026/2027)
+## Lectures (A.Y. 2026/2027)
 | Date | Lecture | 
 | -------------: | :------------- |
 | 16/09/2026 | **Introduction of the Course**. (FMN, RV)<br><br>Anatomy of a search engine. Main components and their interactions. General overview of the course. Final Exam. Question Time.<br><br>*References*:  *Introduction to Information Retrieval*, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Cambridge University Press. 2008 ([link](https://nlp.stanford.edu/IR-book/)).|
