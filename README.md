@@ -5,7 +5,7 @@
 * Period: First semester
 * Language: English
 * Telegram group: [here](https://t.me/+h-ZRKyPTw_M1YmQ0)
-* Teams group: [here](https://teams.microsoft.com/l/team/19%3AS-A0WfCDeSVKVOjpazQkgS6FbVi-G0XqYfePkcpxZlE1%40thread.tacv2/conversations?groupId=f41702f2-9b87-4bca-9b99-a82a56fa44bf&tenantId=c7456b31-a220-47f5-be52-473828670aa1)
+* Teams group: [here](https://teams.microsoft.com/l/team/19%3AZ7zMPh-Tz4OQng1Zf5KIS3e0OKaryjpcFPIg5PYRyeU1%40thread.tacv2/conversations?groupId=cd54e733-8106-472e-aa28-2790a7426dc3&tenantId=c7456b31-a220-47f5-be52-473828670aa1)
 * Lectures schedule: Monday 16:00-18:00 (Aula Fib C) and Wednesday 11:00-13:00 (Aula Fib L1)
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
