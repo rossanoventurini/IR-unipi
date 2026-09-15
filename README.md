@@ -47,8 +47,8 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 
 | | Date | Time | Room |
 | :------------- | --------: | :--------- | :------- |
-| **Midterm**.| 28/10/2025 | 14:15 | C |
-| **Finalterm**.| 09/12/2025 | 14:15 | C |
+| **Midterm**.| TBA | TBA | TBA |
+| **Finalterm**.| TBA | TBA | TBA |
 
 
 ### Lectures
