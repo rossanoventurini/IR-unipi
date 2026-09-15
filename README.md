@@ -10,7 +10,7 @@
 * Question time: After lectures or by appointment. The fastest way to contact us is by email or Telegram. Don't be shy!
 
 ### Overview of Course
-This Information Retrieval (IR) course focuses on modern techniques and technologies that efficiently retrieve and rank relevant data. It covers both foundational concepts and cutting-edge advancements, providing students with a deep understanding of how to manage and retrieve information in various applications such as search engines, recommendation systems, and data management platforms. Here's a brief look at the course topics:
+This Information Retrieval (IR) course focuses on modern techniques and technologies for efficiently retrieving and ranking relevant data. It covers both foundational concepts and cutting-edge advancements, providing students with a deep understanding of how to manage and retrieve information in various applications such as search engines, recommendation systems, and data management platforms. Here's a brief look at the course topics:
 
 - **Language Properties and IR Models** – Introduction to how language and text are represented for retrieval, including traditional models (Boolean, vector space, and probabilistic) and modern IR models.
 - **Effectiveness Measures** – Evaluation metrics like precision, recall, F1 score, mean reciprocal rank (MRR), and discounted cumulative gain (DCG) to measure IR system performance.
@@ -29,19 +29,18 @@ Becoming an expert in Information Retrieval offers numerous career opportunities
 ### Exam
 The exam consists of two parts. 
 
-- **Part 1**: Written Exam (up to 32 points)
-  - 1.25 hours written exam covering topics discussed during the course.
+- **Part 1**: Written Exam (up to 28 points)
+  - 1.5 hours written exam covering topics discussed during the course.
   - Questions will assess the understanding of the core course materials.
 
-- **Part 2**: Oral Exam on a Project
+- **Part 2 (Optional)**: Oral exam on a project (up to 4 points)
   - The project is based on a scientific paper you choose from a [selected list of papers](https://github.com/rossanoventurini/IR-unipi/blob/main/papers.md).
   - The project can be completed by a team of up to 2 people.
-  - The project will be presented using approximately 10 slides (15 min.) during the oral exam.
+  - The project will be presented using approximately 10 slides (15 min.) during the oral exam. During the exam, we will ask the students to comment on their experimental methodology and share the source code they wrote.
   - Students can approach the project at different levels of depth:
-    - **Basic Level**: Read and understand the techniques presented in the article.
-    - **Intermediate Level**: Conduct experiments to verify the assumptions, main properties,  or conclusions.
-    - **Advanced Level**: Replicate the results from the article.
-    - **Expert Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
+    - **Basic Level**: Read and understand the techniques presented in the article **plus** conduct experiments to verify **parts of** the assumptions, main properties, and conclusions.
+    - **Intermediate Level**: Replicate the results from the article.
+    - **Advanced Level**: Re-implement the proposed solution, up to improving it by introducing alternative strategies.
 
 #### Midterm and Final Exams
 Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links. You can take the final term only if your grade on the midterm is 18 or higher. If you fail the midterm, no worries! You can still take any of the exams in January, February, June, July, or September!
