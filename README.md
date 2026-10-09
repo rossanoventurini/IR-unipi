@@ -64,7 +64,7 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 | 07/10/2026 | **Inverted Indexes. TAAT and DAAT**. (RV)<br><br>Inverted indexes for boolean and ranked retrieval. Term-at-a-time (TAAT) and Document-at-a-time (DAAT). NextGEQ operation with binary search and skip pointers. Faster AND query with nextGEQ. Positional Indexes for Phrase queries.<br><br>*Reference*: Sections 1 and 2.2 in *Efficient Query Processing for Scalable Web Search*, Nicola Tonellotto, Craig Macdonald, and Iadh Ounis, Now Foundations and Trends, 2018. ([link](https://arpi.unipi.it/retrieve/e0d6c931-3b36-fcf8-e053-d805fe0aa794/main-nowplain.pdf)) |
 | 12/10/2026 | **Inverted Index and Query Processing in Python**. (RV)<br><br>In this lecture, we implemented a simple inverted index in Python. The index is built on a portion of the C4 Dataset and supports AND and OR queries implemented with both Term-at-a-time (TAAT) and Document-at-a-time (DAAT) strategies. We experimented with the skipping strategy to speed up AND query with the nextGEQ operation. |
 | 14/10/2026 | **Query Processing**. (RV)<br><br>Top-k retrieval. Simple strategy: Exhaustive OR and Min-Heap. WAND and MaxScore. Intuition of blocking: Block Max-WAND and Block MaxScore.<br><br>*Reference*: Section 3 in *Efficient Query Processing for Scalable Web Search*, Nicola Tonellotto, Craig Macdonald, and Iadh Ounis, Now Foundations and Trends, 2018. ([link](https://arpi.unipi.it/retrieve/e0d6c931-3b36-fcf8-e053-d805fe0aa794/main-nowplain.pdf)) |
-
+| 26/10/2026 | **Midterm #1**. |
 
 ---
 ## Lectures (A.Y. 2025/2026)
