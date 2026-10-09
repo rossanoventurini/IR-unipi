@@ -46,7 +46,7 @@ The exam consists of two parts.
 Registration via Google Form for every midterm is welcome. Check the Telegram channel for Google Form links. You can take the final term only if your grade on the midterm is 18 or higher. If you fail the midterm, no worries! You can still take any of the exams in January, February, June, July, or September!
 
 | | Date | Time | Room |
-| :------------- | --------: | :--------- | :------- |
+| :------------- | --------: | :---------: | :-------: |
 | **Midterm**.| 26/10/2026 | 16:15 | C |
 | **Finalterm**.| TBA | TBA | TBA |
 
