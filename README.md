@@ -47,7 +47,7 @@ Registration via Google Form for every midterm is welcome. Check the Telegram ch
 
 | | Date | Time | Room |
 | :------------- | --------: | :--------- | :------- |
-| **Midterm**.| TBA | TBA | TBA |
+| **Midterm**.| 26/10/2026 | 16:15 | C |
 | **Finalterm**.| TBA | TBA | TBA |
 
 
