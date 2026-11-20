@@ -50,3 +50,5 @@ This is the list of papers you can use to build Part #2 of the IR final exam. Fo
 14. Tobias Rubel, Richard Wen, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, Jakub Łącki. **PiPNN: Ultra-Scalable Graph-Based Nearest Neighbor Indexing**. [paper](https://arxiv.org/abs/2602.21247).
 
 15. Thibault Formal, Pierre Erbacher, Cosimo Rulli. **SPARSEUP: Towards Better Recipes for Training Modern Learned Sparse Retrievers**. [paper](https://arxiv.org/html/2611.09680v1).
+
+16. Leonardo Delfino, Domenico Erriquez, Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, and Rossano Venturini. **kANNolo: Sweet and Smooth Approximatek-Nearest Neighbors Search**. [paper](https://arxiv.org/abs/2501.06121). 
