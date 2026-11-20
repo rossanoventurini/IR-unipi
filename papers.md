@@ -9,7 +9,7 @@ This is the list of papers you can use to build Part #2 of the IR final exam. Fo
 
 2. Samy Chambi, Daniel Lemire, Owen Kaser, Robert Godin. 2016. **Better bitmap performance with Roaring bitmaps**. Software: Practice and Experience. [paper](http://arxiv.org/abs/1402.6407). [code](https://roaringbitmap.org/).
 
-3. Peter Boncz, Thomas Neumann, Viktor Leis. 2020. **FSST: Fast static symbol table compression**. VLDB. [paper](https://www.vldb.org/pvldb/vol13/p2649-boncz.pdf). [code](https://github.com/cwida/fsst).
+3. Francesco Gargiulo, Rossano Venturini. 2026. **OnPair: Short Strings Compression for Fast Random Access**. ICDE. [paper](https://arxiv.org/abs/2508.02280). [code](https://docs.rs/vortex-onpair/latest/vortex_onpair/).
 
 4. Omar Khattab, Mohammad Hammoud, Tamer Elsayed. 2020. **Finding the best of both worlds: faster and more robust top-k document retrieval**. SIGIR. [paper](https://web2.qatar.cmu.edu/~mhhammou/SIGIR_20_LazyBM.pdf).
 
