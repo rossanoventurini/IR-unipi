@@ -21,7 +21,7 @@ This is the list of papers you can use to build Part #2 of the IR final exam. Fo
 
 3. Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu. 2017. **LightGBM: A Highly Efficient Gradient Boosting Decision Tree**. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf). [code](https://github.com/microsoft/LightGBM).
 
-### Neural IR
+### Neural IR & kNN
    
 1. Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini. 2024. **Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations**. SIGIR. [paper](https://arxiv.org/abs/2404.18812). [code](https://github.com/TusKANNy/seismic).
 
@@ -44,3 +44,8 @@ This is the list of papers you can use to build Part #2 of the IR final exam. Fo
 11. Liana Patel, Peter Kraft, Carlos Guestrin, Matei Zaharia. 2024. **ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data**. [paper](https://arxiv.org/pdf/2403.04871).
 
 12. Jiayang Shi, Yuzheng Cai, Weiguo Zheng. 2025. **Filtered Approximate Nearest Neighbor Search: A Unified Benchmark and Systematic Experimental Study**. [paper](https://arxiv.org/1df/2509.07789).
+   
+13. Sebastian Bruch, Martino Fontana, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini. **Forward Index Compression for Learned Sparse Retrieval**. [paper](https://link.springer.com/chapter/10.1007/978-3-032-21300-6_35).
+
+14. Tobias Rubel, Richard Wen, Laxman Dhulipala, Lars Gottesbüren, Rajesh Jayaram, Jakub Łącki. **PiPNN: Ultra-Scalable Graph-Based Nearest Neighbor Indexing**. [paper](https://arxiv.org/abs/2602.21247).
+
